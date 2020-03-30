@@ -1,4 +1,4 @@
-﻿Student ID,student_name,gender,grade,reading_score,math_score
+﻿;,student_name,gender,grade,reading_score,math_score
 0,Paul Bradley,M,9th,66,79
 1,Victor Smith,M,12th,94,61
 2,Kevin Rodriguez,M,12th,,60
